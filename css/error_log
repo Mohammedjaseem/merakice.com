@@ -1,0 +1,22 @@
+[07-May-2024 14:30:51 UTC] PHP Notice:  Uninitialized string offset: 769 in /home/levavulc/merakice.com/css/lib.php on line 13
+[07-May-2024 14:30:55 UTC] PHP Notice:  Uninitialized string offset: 769 in /home/levavulc/merakice.com/css/lib.php on line 13
+[12-May-2024 13:00:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpeval() in /opt/alt/php72/var/lib/php/session/sess_38bed1a4601c9fb55322f525e4cea87a:1
+Stack trace:
+#0 /home/levavulc/merakice.com/css/lib.php(26): include()
+#1 {main}
+  thrown in /opt/alt/php72/var/lib/php/session/sess_38bed1a4601c9fb55322f525e4cea87a on line 1
+[12-May-2024 13:00:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpeval() in /opt/alt/php72/var/lib/php/session/sess_2ad3d2d114953d454036ce0c98bd36c1:1
+Stack trace:
+#0 /home/levavulc/merakice.com/css/lib.php(26): include()
+#1 {main}
+  thrown in /opt/alt/php72/var/lib/php/session/sess_2ad3d2d114953d454036ce0c98bd36c1 on line 1
+[13-May-2024 12:00:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpeval() in /opt/alt/php72/var/lib/php/session/sess_5ca14ed43a261453f47e8d970eb4aaef:1
+Stack trace:
+#0 /home/levavulc/merakice.com/css/lib.php(26): include()
+#1 {main}
+  thrown in /opt/alt/php72/var/lib/php/session/sess_5ca14ed43a261453f47e8d970eb4aaef on line 1
+[13-May-2024 12:00:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpeval() in /opt/alt/php72/var/lib/php/session/sess_0cb160388faa7c4da172c7b3a42e7fe0:1
+Stack trace:
+#0 /home/levavulc/merakice.com/css/lib.php(26): include()
+#1 {main}
+  thrown in /opt/alt/php72/var/lib/php/session/sess_0cb160388faa7c4da172c7b3a42e7fe0 on line 1
